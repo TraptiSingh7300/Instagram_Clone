@@ -1,0 +1,30 @@
+.body{
+    background-color: linen;
+    width: 300px;
+    height: auto;
+}
+.body img{
+    width: 140px;
+    height: 55px;
+    padding: 8px 8px;
+}
+
+.body #profile{
+    border-radius: 50%;
+    width: 72px;
+    height: 72px;
+    border: 2px solid palevioletred;
+    padding: 2px 2px;
+    margin: 12px 120px;
+}
+
+.body p{
+    width: 50%;
+    margin: -5px 120px;
+}
+
+.body #verify{
+    width: 20px;
+    height: 10px;
+    margin: 0px 220px;
+}
